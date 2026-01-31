@@ -1,4 +1,4 @@
-Basically, this app tracks my screentime and if I hit the limit, it sends a WhatsApp message to my girlfriend so I feel ashamed. It works wonders.
+# Basically, this app tracks my screentime and if I hit the limit, it sends a WhatsApp message to my girlfriend so I feel ashamed. It works wonders.
 
 
 

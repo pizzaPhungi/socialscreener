@@ -1,6 +1,14 @@
 Basically, this app tracks my screentime and if I hit the limit, it sends a WhatsApp message to my girlfriend so I feel ashamed. It works wonders.
 
 
+
+
+
+
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
